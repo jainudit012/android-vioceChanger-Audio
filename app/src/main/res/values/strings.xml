@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VoiceChangerAudio</string>
+    <string name="hello">Change Your Voice</string>
+    <string name="sampling_text">Choose Filter</string>
+    <string name="start_recording_text">Start Recording Voice</string>
+    <string name="stop_recording_text">Stop Recording</string>
+    <string name="playback_recording_text">Playback Voice</string>
+    <string name="playback_mix_text">Mix With Video</string>
+    <string name="play_video_text">Play Video</string>
+    <string name="changeAudio_text">Change Audio</string>
+</resources>
